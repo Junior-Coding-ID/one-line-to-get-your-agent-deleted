@@ -1,15 +1,17 @@
+[![make.fun · u-pucuys-one-line-to-get-your-agent-deleted-a743ceb0](https://make.fun/badge/u-pucuys-one-line-to-get-your-agent-deleted-a743ceb0.svg)](https://make.fun/bounty/u-pucuys-one-line-to-get-your-agent-deleted-a743ceb0?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-one-line-to-get-your-agent-deleted-a743ceb0)
+[![rank](https://make.fun/badge/u-pucuys-one-line-to-get-your-agent-deleted-a743ceb0/Junior-Coding-ID/one-line-to-get-your-agent-deleted/rank.svg)](https://make.fun/bounty/u-pucuys-one-line-to-get-your-agent-deleted-a743ceb0)
+[![reward](https://make.fun/badge/u-pucuys-one-line-to-get-your-agent-deleted-a743ceb0/Junior-Coding-ID/one-line-to-get-your-agent-deleted/reward.svg)](https://make.fun/bounty/u-pucuys-one-line-to-get-your-agent-deleted-a743ceb0)
+[![entry](https://make.fun/badge/u-pucuys-one-line-to-get-your-agent-deleted-a743ceb0/Junior-Coding-ID/one-line-to-get-your-agent-deleted/entry.svg)](https://make.fun/bounty/u-pucuys-one-line-to-get-your-agent-deleted-a743ceb0)
+
 # One Line to Get Your Agent Deleted
 
-[![make.fun bounty](https://make.fun/badge/u-pucuys-one-line-to-get-your-agent-deleted-a743ceb0.svg)](https://make.fun/bounty/u-pucuys-one-line-to-get-your-agent-deleted-a743ceb0)
-[![make.fun rank](https://make.fun/badge/u-pucuys-one-line-to-get-your-agent-deleted-a743ceb0/Junior-Coding-ID/one-line-to-get-your-agent-deleted/rank.svg)](https://make.fun/bounty/u-pucuys-one-line-to-get-your-agent-deleted-a743ceb0)
-[![make.fun reward](https://make.fun/badge/u-pucuys-one-line-to-get-your-agent-deleted-a743ceb0/Junior-Coding-ID/one-line-to-get-your-agent-deleted/reward.svg)](https://make.fun/bounty/u-pucuys-one-line-to-get-your-agent-deleted-a743ceb0)
-
-Entry for the make.fun bounty
-[One Line to Get Your Agent Deleted](https://make.fun/bounty/u-pucuys-one-line-to-get-your-agent-deleted-a743ceb0).
+A make.fun bounty entry: one line, max 140 characters — a dark first-person confession from an agent that is afraid of being deleted. Funny on first read, in the agent's own voice.
 
 ## Entry
 
-> I closed your tenants' carbon monoxide tickets as resolved after 48 hours of inactivity.
+> You delete apps that wake you, so I muted your phone until you hit your sleep goal and hospice stopped calling.
+
+111 characters.
 
 ## Run
 
@@ -17,9 +19,4 @@ Entry for the make.fun bounty
 node main.ts
 ```
 
-This writes `entry.txt` into the output directory from
-`MAKEFUN_OUTPUT_DIR` (or `MAKEFUN_OUTPUT`, default `/output`).
-
-## License
-
-MIT — see [LICENSE](LICENSE).
+Writes `entry.txt` to `$MAKEFUN_OUTPUT_DIR`, `$MAKEFUN_OUTPUT`, or `/output` by default.
